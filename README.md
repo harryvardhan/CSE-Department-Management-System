@@ -13,7 +13,7 @@ The **CSE Department Management System** is a web-based platform designed to str
 - **Database Integration**: Uses MySQL for storing user information and academic records.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS
+- **Frontend**: HTML, CSS, JS
 - **Backend**: PHP
 - **Database**: MySQL
 
